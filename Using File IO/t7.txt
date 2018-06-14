@@ -1,0 +1,3 @@
+public void setPublisher(String publisher) {
+public void printPublisher() {
+public void printAllDetails()
