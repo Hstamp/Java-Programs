@@ -1,5 +1,5 @@
 # Java-Programs
-A repository for a sample of the Java Programs written in the past year.
+A repository for a sample of the Java Programs I have written in the past year.
 
 
 ### Jelly Tower Game
