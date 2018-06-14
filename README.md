@@ -3,7 +3,7 @@ A repository for a sample of the Java Programs I have written in the past year.
 
 
 ### Jelly Tower Game
-An opportunity to practice OOP practices, including inheritance and polymorphism.
+An opportunity to practice OOP principles, including inheritance and polymorphism.
 
 ### Popular Names 
 A program which used two .txt files, one of 1000 girls and 1000 boys names, and matched user inputs to the data available in those files.
